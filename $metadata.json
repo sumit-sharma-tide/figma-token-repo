@@ -1,0 +1,8 @@
+{
+  "tokenSetOrder": [
+    "base/raw-value",
+    "semantic/light-mode",
+    "semantic/dark-mode",
+    "account-card/light-mode"
+  ]
+}

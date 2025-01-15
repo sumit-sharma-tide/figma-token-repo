@@ -1,0 +1,38 @@
+{
+  "instant-saver": {
+    "background": {
+      "brand-subtle": {
+        "value": "{color.indigo.400}",
+        "type": "color"
+      }
+    },
+    "icon": {
+      "error-boldest": {
+        "value": "{color.red.900}",
+        "type": "color"
+      }
+    }
+  },
+  "instant-saver-extra": {
+    "background": {
+      "warning-subtle": {
+        "value": "{color.yellow.200}",
+        "type": "color"
+      }
+    }
+  },
+  "main": {
+    "icon": {
+      "error-subtle": {
+        "value": "{color.red.400}",
+        "type": "color"
+      }
+    },
+    "text": {
+      "error-subtle": {
+        "value": "{color.red.400}",
+        "type": "color"
+      }
+    }
+  }
+}
